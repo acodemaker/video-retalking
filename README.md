@@ -2,12 +2,12 @@
 
 <h2>VideoReTalking <br/> <span style="font-size:12px">Audio-based Lip Synchronization for Talking Head Video Editing in the Wild</span> </h2> 
 
-  <a href='https://arxiv.org/abs/2211.14758'><img src='https://img.shields.io/badge/ArXiv-2211.14758-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://vinthony.github.io/video-retalking/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinthony/video-retalking/blob/main/quick_demo.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://arxiv.org/abs/2211.14758'><img src='https://img.shields.io/badge/ArXiv-2211.14758-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://acodemaker.github.io/video-retalking/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/acodemaker/video-retalking/blob/main/quick_demo.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Replicate](https://replicate.com/cjwbw/video-retalking/badge)](https://replicate.com/cjwbw/video-retalking)
 
 <div>
     <a target='_blank'>Kun Cheng <sup>*,1,2</sup> </a>&emsp;
-    <a href='https://vinthony.github.io/' target='_blank'>Xiaodong Cun <sup>*,2</a>&emsp;
+    <a href='https://acodemaker.github.io/' target='_blank'>Xiaodong Cun <sup>*,2</a>&emsp;
     <a href='https://yzhang2016.github.io/yongnorriszhang.github.io/' target='_blank'>Yong Zhang <sup>2</sup></a>&emsp;
     <a href='https://menghanxia.github.io/' target='_blank'>Menghan Xia <sup>2</sup></a>&emsp;
     <a href='https://feiiyin.github.io/' target='_blank'>Fei Yin <sup>2,3</sup></a>&emsp;<br/>
@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/4397546/224310754-665eb2dd-aadc-47dc-b
 
 ## Environment
 ```
-git clone https://github.com/vinthony/video-retalking.git
+git clone https://github.com/acodemaker/video-retalking.git
 cd video-retalking
 conda create -n video_retalking python=3.8
 conda activate video_retalking
